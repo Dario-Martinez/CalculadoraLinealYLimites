@@ -1,0 +1,13 @@
+C:\Users\Alumno\Documents\programacion\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe.config
+C:\Users\Alumno\Documents\programacion\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe
+C:\Users\Alumno\Documents\programacion\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.pdb
+C:\Users\Alumno\Documents\programacion\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.xml
+C:\Users\Alumno\Documents\programacion\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Documents\programacion\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.Resources.resources
+C:\Users\Alumno\Documents\programacion\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.vbproj.GenerateResource.cache
+C:\Users\Alumno\Documents\programacion\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Documents\programacion\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
+C:\Users\Alumno\Documents\programacion\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.xml
+C:\Users\Alumno\Documents\programacion\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
+C:\Users\Alumno\Documents\programacion\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto._frmEcuuacionExplicita.resources
+C:\Users\Alumno\Documents\programacion\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.frmInterseccion.resources
